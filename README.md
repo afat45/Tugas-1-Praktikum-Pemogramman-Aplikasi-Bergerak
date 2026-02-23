@@ -64,11 +64,11 @@ Pastikan Flutter SDK sudah terinstal di komputer Anda.
 
 1.  **Clone Repository ini:**
     ```bash
-    git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
+    git clone https://github.com/afat45/Tugas-1-Praktikum-Pemogramman-Aplikasi-Bergerak.git
     ```
 2.  **Masuk ke direktori project:**
     ```bash
-    cd nama-repo
+    cd Tugas-1-Praktikum-Pemogramman-Aplikasi-Bergerak
     ```
 3.  **Install dependencies:**
     ```bash
@@ -81,4 +81,4 @@ Pastikan Flutter SDK sudah terinstal di komputer Anda.
 
 ---
 
-*Dibuat dengan ❤️ menggunakan Flutter & Dart.*
+*Dibuat dengan sedikit ❤️ menggunakan Flutter & Dart.*
